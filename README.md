@@ -8,16 +8,13 @@
 <!--- Label --->
 <!--- ELabel ---> 
 <!--- Name:module: --->
-#ALBASE1609
+# ALBASE1609
 <!--- LongName --->
 <!--- ELongName ---> 
 
 <!--- Lead --->
-MLAB aluminium baseboard with 16x9 holes with a standard pitch of 400mils (10.16mm). Suitable for devices placed in the 1455N1601 box. 
+MLAB aluminium baseboard with 16x9 holes with a standard pitch of 400mils (10.16mm). Suitable for devices placed in the [1455N1601](https://mou.sr/42Aqyvv) box. 
 <!--- ELead ---> 
-
-![LeadImg](doc/img/module_top_big.jpg) 
-
 
 <!--- Description --->
 <!--- EDescription --->
