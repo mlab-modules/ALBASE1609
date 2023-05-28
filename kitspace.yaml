@@ -1,0 +1,9 @@
+bom: hw/sch_pcb/ALBASE1609.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/ALBASE1609.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/ALBASE1609
+summary: MLAB aluminium baseboard with 16x9 holes with a standard pitch of 400mils
+  (10.16mm). Suitable for devices placed in the 1455N1601 box.
