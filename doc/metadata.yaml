@@ -1,6 +1,8 @@
 description: MLAB aluminium baseboard with 16x9 holes with a standard pitch of 400mils
   (10.16mm). Suitable for devices placed in the 1455N1601 box.
 github_branch: ALBASE1609
+github_description: MLAB aluminium baseboard with 16x9 holes with a standard pitch
+  of 400mils (10.16mm). Suitable for devices placed in the 1455N1601 box.
 github_repo: ALBASE1609
 github_url: https://github.com/mlab-modules/ALBASE1609
 homepage: false
@@ -13,3 +15,4 @@ tags:
 - albase
 - mlab-module
 title: ALBASE1609
+updated: '2026-03-14T19:02:54.542719+00:00'
