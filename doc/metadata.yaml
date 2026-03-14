@@ -8,6 +8,7 @@ github_url: https://github.com/mlab-modules/ALBASE1609
 homepage: false
 images:
 - doc/img/ALBASE1609_QRcode.png
+- doc/img/ALBASE1609_drawing.png
 mark: 50
 status: 2
 tags:
@@ -15,4 +16,4 @@ tags:
 - albase
 - mlab-module
 title: ALBASE1609
-updated: '2026-03-14T19:02:54.542719+00:00'
+updated: '2026-03-14T19:10:05.538115+00:00'
