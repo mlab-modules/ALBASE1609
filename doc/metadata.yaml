@@ -6,6 +6,7 @@ github_description: MLAB aluminium baseboard with 16x9 holes with a standard pit
 github_repo: ALBASE1609
 github_url: https://github.com/mlab-modules/ALBASE1609
 homepage: false
+image_title: doc/img/ALBASE1609_drawing.png
 images:
 - doc/img/ALBASE1609_QRcode.png
 - doc/img/ALBASE1609_drawing.png
